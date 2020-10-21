@@ -1,5 +1,5 @@
 # Download VOT
-A simple Python script to download [VOT challenge](https://www.votchallenge.net/) dataset. 
+A simple Python script to download [VOT challenge](https://www.votchallenge.net/) datasets. 
 
 VOT2016 ~ VOT2019 are supported.
 
