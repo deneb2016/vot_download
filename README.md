@@ -1,5 +1,5 @@
 # Download VOT
-A simple Python script to download VOT(Visual Object Tracking) challenge dataset.
+A simple Python script to download VOT(https://www.votchallenge.net/) challenge dataset.
 
 VOT2016 ~ VOT2019 are supported.
 
